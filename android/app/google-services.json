@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383759319117",
+    "project_id": "kankor-a1899",
+    "storage_bucket": "kankor-a1899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383759319117:android:2addf22ed186e2f6211c04",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383759319117-utn38nv0hmh4ql7v5segbkqip4g3tsh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu179CvCMqaVPijim_j3PSWkY0upoYpkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383759319117-utn38nv0hmh4ql7v5segbkqip4g3tsh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
